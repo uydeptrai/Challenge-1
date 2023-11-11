@@ -1,0 +1,7 @@
+anvil
+eyeglasses
+ladder
+baseball_bat
+drums
+sun
+laptop
